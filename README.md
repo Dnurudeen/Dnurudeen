@@ -1,7 +1,5 @@
 #### 👋 Hi there I’m,
   # Nurudeen Daniju
-   
----
 
 A **Full-Stack Developer (heavy on Backend)**. I bring a wealth of expertise in crafting seamless integrations between sophisticated back-end applications and robust front-end systems. I have a deep understanding of API Management and integrations. My proficiency in Object-Oriented PHP and JavaScript is complemented by an advanced mastery of the Laravel framework, positioning me as a valuable asset in the development landscape. 
   
