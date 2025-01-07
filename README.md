@@ -1,6 +1,4 @@
-#### 👋 Hi there!
-
-**I’m**,
+#### 👋 Hi there I’m,
   # Nurudeen Daniju
    
 ---
