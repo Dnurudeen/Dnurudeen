@@ -1,15 +1,15 @@
 #### 👋 Hi there I’m,
   # Nurudeen Daniju
 
-A **Full-Stack Developer (heavy on Backend)**. I bring a wealth of expertise in crafting seamless integrations between sophisticated back-end applications and robust front-end systems. I have a deep understanding of API Management and integrations. My proficiency in Object-Oriented PHP and JavaScript is complemented by an advanced mastery of the Laravel framework, positioning me as a valuable asset in the development landscape. 
+A **Full-Stack Developer (heavy on Backend)**. 
   
-Here's what I bring to the table: 
+My Stack Combo 😊: 
 
-- **Frontend:** [HTML, CSS, Bootstrap, JavaScript, React.js]  
+- **Frontend:** [HTML, CSS, Bootstrap, JavaScript, React.js, Next.js, TypeScript]  
 - **Backend:** [Laravel, PHP, JavaScript, Python, Flask, Rest APIs]
 - **Database:** [MySQL, PostgreSQL, SQLite, MongoDB]
-- **Tools:** [Apache, Docker, Nginx, AWS, Laravel Cloud, Google Cloud, Kubernetes, Git]
-- **Architectural Patterns:** [Monolithic, Microservices, Service Mesh] 
+- **Tools:** [Apache, Docker, Nginx, AWS, Laravel Cloud, Droplet, Google Cloud, Kubernetes, Git]
+- **Architectural Patterns:** [Monolithic, Microservices] 
 
 ---
 
@@ -20,7 +20,9 @@ Here's what I bring to the table:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chartdotjs&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
@@ -41,6 +43,7 @@ Here's what I bring to the table:
 ![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?logo=microgen&logoColor=white&style=for-the-badge)
 ![Monolithic](https://img.shields.io/badge/-Monolithic-4CAF50?style=for-the-badge)
 ![Service Mesh](https://img.shields.io/badge/-Service_Mesh-FF6F00?style=for-the-badge)
+![DigitalOcean Droplet](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=for-the-badge)
 
 ---
 
