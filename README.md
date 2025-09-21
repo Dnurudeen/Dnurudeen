@@ -1,15 +1,17 @@
-#### 👋 Hi there I’m,
-  # Nurudeen Daniju
+#### 👋 Hi there, I’m  
+# Nurudeen Daniju  
 
-A **Full-Stack Developer (heavy on Backend)**. 
-  
-My Stack Combo 😊: 
+A **Full-Stack Developer (with a strong focus on Backend)**.  
 
-- **Frontend:** [HTML, CSS, Bootstrap, JavaScript, React.js, Next.js, TypeScript]  
-- **Backend:** [Laravel, PHP, JavaScript, Python, Flask, Rest APIs]
-- **Database:** [MySQL, PostgreSQL, SQLite, MongoDB]
-- **Tools:** [Apache, Docker, Nginx, AWS, Laravel Cloud, Droplet, Google Cloud, Kubernetes, Git]
-- **Architectural Patterns:** [Monolithic, Microservices] 
+---
+
+## 💻 My Stack  
+
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript, React.js, Next.js, TypeScript  
+- **Backend:** Laravel, PHP, JavaScript, Python, Flask, REST APIs  
+- **Databases:** MySQL, PostgreSQL, SQLite, MongoDB  
+- **DevOps & Tools:** Apache, Docker, Nginx, AWS, Laravel Cloud, DigitalOcean Droplet, Google Cloud, Kubernetes, Git  
+- **Architectural Patterns:** Monolithic, Microservices, Service Mesh  
 
 ---
 
@@ -26,6 +28,7 @@ My Stack Combo 😊:
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chartdotjs&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -47,37 +50,19 @@ My Stack Combo 😊:
 
 ---
 
-Let me know if you'd like me to adjust or refine any part of this! 😊
-
----
-
-## 🚀 My Recent Projects  
-
-### 🎯 Marketplace System  
-A platform for buying, selling, and hiring equipment and machinery, including:  
-- Ad performance tracking with **Chart.js** (clicks/views analysis)  
-- Payment gateway integration and subscription management  
-- Optimized ad performance using **Memcache** for caching  
-
-### 📸 Image Handling in Laravel  
-Seamlessly upload and display item images using **Intervention/Image** without applying watermarks.  
-
----
-
 ## 📩 How to Reach Me  
 
 - **Email:** [danijunurdeen@gmail.com](mailto:danijunurdeen@gmail.com)  
 - **LinkedIn:** [Nurudeen Daniju](https://linkedin.com/in/nur-deen-daniju-7894692a0/)  
-- **Portfolio:** [My Portfolio](https://dnurudeen.github.io/)  
 
 ---
 
 ## 🌱 Fun Facts About Me  
 
-- 🧠 I'm constantly exploring better solutions for every feature I previously used.  
-- 🎨 I enjoy working on challenging and lucrative software projects.  
-- 🌎 I'm always open to collaborating on exciting projects or sharing knowledge!  
+- 🧠 Constantly exploring better solutions for features I build.  
+- 🎨 Passionate about challenging and impactful software projects.  
+- 🌎 Always open to collaboration and knowledge sharing.  
 
 ---
 
-Feel free to connect or explore my repositories—let's build something amazing together!  
+✨ Let’s connect and build something amazing together! 🚀
